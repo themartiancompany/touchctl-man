@@ -41,7 +41,7 @@ Touchscreen control
 Synopsis
 ========
 
-touchctl*[options]* -- *command* *[command-args]*
+touchctl *[options]* -- *command* *[command-args]*
 
 
 Description
